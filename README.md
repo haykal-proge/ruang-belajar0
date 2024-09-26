@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- `Haykal Aulil Albab - FS11803701`
 - Bob
